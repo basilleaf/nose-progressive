@@ -1,3 +1,8 @@
+install this fork:
+
+pip install -e git://github.com/basilleaf/nose-progressive.git#egg=nose-progressive
+
+
 ================
 nose-progressive
 ================
